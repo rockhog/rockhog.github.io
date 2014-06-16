@@ -4,7 +4,7 @@
   <title><![CDATA[Rock Hog Website]]></title>
   <link href="http://rockhog.github.io/atom.xml" rel="self"/>
   <link href="http://rockhog.github.io/"/>
-  <updated>2014-06-16T06:14:41-05:00</updated>
+  <updated>2014-06-16T06:38:52-05:00</updated>
   <id>http://rockhog.github.io/</id>
   <author>
     <name><![CDATA[Rock Hog Global]]></name>
@@ -14,14 +14,27 @@
 
   
   <entry>
+    <title type="html"><![CDATA[The New Building]]></title>
+    <link href="http://rockhog.github.io/blog/2014/06/16/the-new-building/"/>
+    <updated>2014-06-16T06:36:46-05:00</updated>
+    <id>http://rockhog.github.io/blog/2014/06/16/the-new-building</id>
+    <content type="html"><![CDATA[<p><img src="http://www.rockhog.com/uploads/1/7/9/5/17953277/6190373_orig.jpg"></p>
+
+<p>Here is a shot of the new building to make room for additional manufacturing space.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Expanding]]></title>
     <link href="http://rockhog.github.io/blog/2014/06/16/expanding/"/>
     <updated>2014-06-16T06:04:43-05:00</updated>
     <id>http://rockhog.github.io/blog/2014/06/16/expanding</id>
-    <content type="html"><![CDATA[<p>We are Expanding!
+    <content type="html"><![CDATA[<p><img src="http://www.rockhog.com/uploads/1/7/9/5/17953277/header_images/1365020445.jpg"></p>
+
+<p>We are Expanding!
 Check back soon!</p>
 
-<p><img src="http://www.rockhog.com/uploads/1/7/9/5/17953277/header_images/1365020445.jpg"></p>
+<p>Rock Hog Drilling Products is a family owned business of the Hill family. The founders have over 40 years of manufacturing experience with 20+ years in the rock drilling industry.  With a 30,000 square foot manufacturing facility located in south central Pennsylvania, Rock Hog enjoys the best of all worlds.  While we are located in a rural farmland community where work ethic of our people adds to our capability and value, we are also close to major interstate arteries and commerce I-70, I-76 and I-81.  We are located just off Route 16, between Interstate 81 and the Pennsylvania Turnpike, in the borough of Mercersburg.  The facility is easily accessible by our customers, suppliers and employees and welcome all to visit.</p>
 ]]></content>
   </entry>
   
