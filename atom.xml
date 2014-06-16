@@ -4,7 +4,7 @@
   <title><![CDATA[Rock Hog Website]]></title>
   <link href="http://rockhog.github.io/atom.xml" rel="self"/>
   <link href="http://rockhog.github.io/"/>
-  <updated>2014-06-16T05:53:57-05:00</updated>
+  <updated>2014-06-16T06:14:41-05:00</updated>
   <id>http://rockhog.github.io/</id>
   <author>
     <name><![CDATA[Rock Hog Global]]></name>
@@ -12,5 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Expanding]]></title>
+    <link href="http://rockhog.github.io/blog/2014/06/16/expanding/"/>
+    <updated>2014-06-16T06:04:43-05:00</updated>
+    <id>http://rockhog.github.io/blog/2014/06/16/expanding</id>
+    <content type="html"><![CDATA[<p>We are Expanding!
+Check back soon!</p>
+
+<p><img src="http://www.rockhog.com/uploads/1/7/9/5/17953277/header_images/1365020445.jpg"></p>
+]]></content>
+  </entry>
   
 </feed>
