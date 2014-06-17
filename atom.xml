@@ -4,7 +4,7 @@
   <title><![CDATA[Rock Hog Drilling Products]]></title>
   <link href="http://rockhog.github.io/atom.xml" rel="self"/>
   <link href="http://rockhog.github.io/"/>
-  <updated>2014-06-17T01:11:31-05:00</updated>
+  <updated>2014-06-17T02:20:03-05:00</updated>
   <id>http://rockhog.github.io/</id>
   <author>
     <name><![CDATA[Rock Hog Global]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DTH Hammers]]></title>
+    <link href="http://rockhog.github.io/blog/2014/06/17/dth-hammers/"/>
+    <updated>2014-06-17T01:49:15-05:00</updated>
+    <id>http://rockhog.github.io/blog/2014/06/17/dth-hammers</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The New Building]]></title>
